@@ -1,6 +1,6 @@
 # BindThings Node.js
 
-Official Node.js client for the [BindThings](https://bindthings.io) IoT Platform.
+Official Node.js client for the [BindThings](https://bindthings.com) IoT Platform.
 
 ## Installation
 
