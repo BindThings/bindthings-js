@@ -1,0 +1,23 @@
+{
+  "name": "bindthings",
+  "version": "1.0.0",
+  "description": "Official Node.js client for BindThings IoT Platform",
+  "main": "src/index.js",
+  "keywords": ["iot", "mqtt", "bindthings", "telemetry", "nodejs"],
+  "author": "BindThings <getbindthings@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://bindthings.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bindthings/bindthings-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bindthings/bindthings-js/issues"
+  },
+  "dependencies": {
+    "mqtt": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
