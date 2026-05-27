@@ -5,7 +5,7 @@ Official Node.js client for the [BindThings](https://bindthings.com) IoT Platfor
 ## Installation
 
 ```bash
-npm install bindthings
+npm install bindthings-sdk
 ```
 
 ## Quick Start
