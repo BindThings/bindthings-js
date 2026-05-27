@@ -1,5 +1,5 @@
 {
-  "name": "bindthings",
+  "name": "bindthings-sdk",
   "version": "1.0.0",
   "description": "Official Node.js client for BindThings IoT Platform",
   "main": "src/index.js",
